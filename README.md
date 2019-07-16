@@ -1,5 +1,6 @@
-#NOTICE
-This is a FORK of the original script by 21y4d
+# NOTICE
+
+This is a FORK of the original script by 21y4d. I may or may not update it but will defo use it! Many thanks mate!
 
 # nmapAutomator
 A script that you can run in the background!
